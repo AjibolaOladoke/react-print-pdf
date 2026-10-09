@@ -1,0 +1,11 @@
+node_modules
+test
+dist
+.DS_Store
+.tmp
+
+.env.local
+
+**/previews/**/index.html
+
+pack
