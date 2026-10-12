@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![react-print-pdf](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![react-print-pdf](images/preview.png)](https://github.com/Swift-Tech-Co/react-print-pdf)
 
 ## 1. Installation 💿
 
@@ -85,13 +85,11 @@ PDF designed with _react-print-print_ can be generated, hosted (and more) with y
 
 # Contributing 🫂
 
-
 Wanna help ? Awesome! There are many ways you can contribute! Take a look at:
 
 - Contributing Guide
 
 # Authors 🧑‍💻
-
 
 # License 📜
 
@@ -101,29 +99,29 @@ License
 
 ## Activity
 
-[![Alt](https://repobeats.axiom.co/api/embed/1cdb5f15e29e4e5a9388c982a039eaa97a52fdf9.svg "Repobeats analytics image")](https://www.swifttechco.com)
+[![Alt](https://repobeats.axiom.co/api/embed/1cdb5f15e29e4e5a9388c982a039eaa97a52fdf9.svg "Repobeats analytics image")](https://github.com/Swift-Tech-Co/react-print-pdf)
 
 ## Contributors ✨
 
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/react-print-pdf">
   
 </a>
 
 ## Star History 🌟
 
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/react-print-pdf">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.swifttechco.com" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.swifttechco.com" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Swift-Tech-Co/react-print-pdf" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Swift-Tech-Co/react-print-pdf" />
     
   </picture>
 </a>
 
 <div class="title-block" style="text-align: center;" align="center">
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Onedoclabs/react-print)](https://www.swifttechco.com)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Onedoclabs/react-print)](https://github.com/Swift-Tech-Co/react-print-pdf)
 [![Telegram](https://img.shields.io/telegram/1182321379081736192?label=&logo=telegram&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://t.me/+Qt_eFvkb2rliMzNh)
-[![YC](https://img.shields.io/badge/Y%20Combinator-W24-orange?style=flat-square)](https://www.swifttechco.com)
+[![YC](https://img.shields.io/badge/Y%20Combinator-W24-orange?style=flat-square)](https://github.com/Swift-Tech-Co/react-print-pdf)
 
 </div>
 
@@ -143,13 +141,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/react-print-pdf
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
