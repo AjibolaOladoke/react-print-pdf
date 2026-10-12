@@ -171,3 +171,11 @@ Compiled and maintained from upstream [OnedocLabs/react-print-pdf](https://githu
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
